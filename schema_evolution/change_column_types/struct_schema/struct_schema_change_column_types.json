@@ -1,0 +1,11 @@
+{
+ "project" : {
+   "rn_byte_short" : 200,
+   "rn_byte_int" : 63000,
+   "rn_short_int" : 63000,
+   "rn_int_long" : 100000000,
+   "name" : "oftra",
+   "description" : "Only Oftra"
+ }
+}
+
